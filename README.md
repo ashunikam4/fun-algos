@@ -3,8 +3,10 @@
 ### `random number generators`
 - `Linear Congruential Generators (LCG)`
 - `Linear-feedback shift register (LFSR)`
-- `Wichmann–Hill generator`
+- `Rule 30`
 - `Blum Blum Shub`
 - `Mersenne Twister (MT)`
 - `Xorshift`
-- `Xoroshiro`
+- `Xoroshiro128+`
+- `Chacha20`
+- `PCG`
